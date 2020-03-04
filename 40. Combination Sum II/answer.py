@@ -1,7 +1,7 @@
 def combinationSum2(candidates: list(), target: int) -> list():
     results = []
 
-    def findMatch(current_list, candidates, target, origin_index, index):
+    def findMatch(current_list, candidates, target, index):
         if target == 0:
             if current_list not in results:
                 results.append(current_list)
@@ -13,14 +13,13 @@ def combinationSum2(candidates: list(), target: int) -> list():
             current_num = candidates[current_index]
             findMatch(
                 current_list + [current_num],
-                candidates,
+                candidates[1:],
                 target - current_num,
-                origin_index + 1,
-                current_index + 1,
+                current_index,
             )
 
     candidates.sort()
-    findMatch(list(), candidates, target, 0, 0)
+    findMatch(list(), candidates, target, 0)
     print(results)
     print('---')
     return results
