@@ -1,22 +1,16 @@
 def change(amount: int, coins: list()) -> int:
-    result = list()
+    dp = [0] * (amount + 1)
+    dp[0] = 1
 
-    def getChange(amount, coins, index, current):
-        if amount == 0:
-            result.append(current)
-            return
-        else:
-            for i in range(index, len(coins)):
-                if amount < 0:
-                    break
-                getChange(amount - coins[i], coins, i, current + [coins[i]])
+    for coin in coins:
+        for index in range(1, amount + 1):
+            if index >= coin:
+                dp[index] += dp[index - coin]
 
-    getChange(amount, coins, 0 ,[])
-    print(result)
+    print(dp)
+    return dp[amount]
 
-    return len(result)
-
-
-# change(3, [2])
+#
+# #change(3, [2])
 # change(10, [10])
 change(5, [1, 2, 5])
