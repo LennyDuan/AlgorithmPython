@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/78. Subsets/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/78. Subsets/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/78. Subsets/answer2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/78. Subsets/answer2.py" beforeDir="false" afterPath="$PROJECT_DIR$/78. Subsets/answer2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,36 +38,36 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="40" />
-          <entry key="py" value="7467" />
+          <entry key="py" value="8231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="7467" />
+          <entry key="Python" value="8231" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/78. Subsets/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding>
-                <marker date="1588327803000" expanded="true" signature="125:469" ph="..." />
+                <marker date="1588328360000" expanded="true" signature="356:361" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/78. Subsets/answer2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -254,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer (3)">
+  <component name="RunManager" selected="Python.answer2">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer_recursive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,11 +344,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/139. Word Break" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/78. Subsets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/139. Word Break/answer_recursive_time_limited.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/78. Subsets/answer2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,18 +359,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.answer" />
-      <item itemvalue="Python.answer_recursive" />
       <item itemvalue="Python.answer (1)" />
       <item itemvalue="Python.answer (2)" />
       <item itemvalue="Python.answer (3)" />
+      <item itemvalue="Python.answer2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer2" />
         <item itemvalue="Python.answer (3)" />
         <item itemvalue="Python.answer (2)" />
         <item itemvalue="Python.answer (1)" />
         <item itemvalue="Python.answer" />
-        <item itemvalue="Python.answer_recursive" />
       </list>
     </recent_temporary>
   </component>
@@ -394,12 +391,12 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83469385" visible="true" weight="0.24225576" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83469385" visible="true" weight="0.24225576" />
       <window_info id="Structure" order="1" sideWeight="0.16530612" side_tool="true" visible="true" weight="0.24225576" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -651,20 +648,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/78. Subsets/answer2.py">
+    <entry file="file://$PROJECT_DIR$/78. Subsets/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="210">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <marker date="1588328360000" expanded="true" signature="356:361" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/78. Subsets/answer.py">
+    <entry file="file://$PROJECT_DIR$/78. Subsets/answer2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <marker date="1588327803000" expanded="true" signature="125:469" ph="..." />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
