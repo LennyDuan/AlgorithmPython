@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/140. Word Break II/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/140. Word Break II/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140. Word Break II/answer_dp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,37 +26,37 @@
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
           <entry key="md" value="14" />
-          <entry key="py" value="26" />
+          <entry key="py" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="14" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="26" />
+          <entry key="Python" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="44" />
-          <entry key="py" value="11076" />
+          <entry key="dummy" value="46" />
+          <entry key="py" value="11927" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="11076" />
+          <entry key="PLAIN_TEXT" value="46" />
+          <entry key="Python" value="11927" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/140. Word Break II/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <marker date="1588761631000" expanded="true" signature="51:55" ph="..." />
                 <marker date="1588761631000" expanded="true" signature="72:77" ph="..." />
@@ -66,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1199943126/_sqlite3.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/140. Word Break II/answer_dp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="677" column="15" selection-start-line="677" selection-start-column="8" selection-end-line="677" selection-end-column="15" />
+            <state relative-caret-position="15">
+              <caret line="1" column="38" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -95,6 +95,9 @@
       <find>origin</find>
       <find>cmp_to_key</find>
       <find>replace</find>
+      <find>pineapplepenapple</find>
+      <find>pine apple pen apple</find>
+      <find>pine apple pen</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,6 +138,8 @@
         <option value="$PROJECT_DIR$/54. Spiral Matrix/answer.py" />
         <option value="$PROJECT_DIR$/140. Word Break II/README.md" />
         <option value="$PROJECT_DIR$/140. Word Break II/answer.py" />
+        <option value="$PROJECT_DIR$/140. Word Break II/answer_time_limit.py" />
+        <option value="$PROJECT_DIR$/140. Word Break II/answer_dp.py" />
       </list>
     </option>
   </component>
@@ -189,6 +194,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/140. Word Break II" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/78. Subsets" />
       <recent name="$PROJECT_DIR$/139. Word Break" />
@@ -210,28 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer">
-    <configuration name="answer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/384. Shuffle an Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/384. Shuffle an Array/answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.answer_dp">
     <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,20 +301,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="answer_dp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/140. Word Break II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/140. Word Break II/answer_dp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.answer (2)" />
       <item itemvalue="Python.answer (3)" />
       <item itemvalue="Python.answer2" />
       <item itemvalue="Python.answer (4)" />
       <item itemvalue="Python.answer" />
+      <item itemvalue="Python.answer_dp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer_dp" />
         <item itemvalue="Python.answer" />
         <item itemvalue="Python.answer (4)" />
         <item itemvalue="Python.answer2" />
         <item itemvalue="Python.answer (3)" />
-        <item itemvalue="Python.answer (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -634,6 +640,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/140. Word Break II/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <marker date="1588761631000" expanded="true" signature="51:55" ph="..." />
+            <marker date="1588761631000" expanded="true" signature="72:77" ph="..." />
+            <marker date="1588761631000" expanded="true" signature="120:677" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1199943126/_sqlite3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -641,15 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/140. Word Break II/answer.py">
+    <entry file="file://$PROJECT_DIR$/140. Word Break II/answer_dp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <marker date="1588761631000" expanded="true" signature="51:55" ph="..." />
-            <marker date="1588761631000" expanded="true" signature="72:77" ph="..." />
-            <marker date="1588761631000" expanded="true" signature="120:677" ph="..." />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="38" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="38" />
         </state>
       </provider>
     </entry>
