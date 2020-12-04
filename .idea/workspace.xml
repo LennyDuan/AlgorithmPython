@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/239. Sliding Window Maximum/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/239. Sliding Window Maximum/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/662. Maximum Width of Binary Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,29 +33,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="41" />
-          <entry key="py" value="76" />
+          <entry key="md" value="44" />
+          <entry key="py" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="41" />
+          <entry key="Markdown" value="44" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="76" />
+          <entry key="Python" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="59" />
           <entry key="md" value="7" />
-          <entry key="py" value="24057" />
+          <entry key="py" value="25746" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="24057" />
+          <entry key="Python" value="25746" />
         </counts>
       </usages-collector>
     </session>
@@ -58,24 +63,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/239. Sliding Window Maximum/answer.py">
+        <entry file="file://$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="136">
+              <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
               <folding>
-                <marker date="1606960968000" expanded="true" signature="36:218" ph="..." />
-                <marker date="1606960968000" expanded="true" signature="219:221" ph="..." />
+                <marker date="1607047896000" expanded="true" signature="72:852" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/239. Sliding Window Maximum/README.md">
+        <entry file="file://$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+              <first_editor relative-caret-position="300">
+                <caret line="20" selection-start-line="20" selection-end-line="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,13 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/78. Subsets/answer2.py" />
-        <option value="$PROJECT_DIR$/54. Spiral Matrix/README.md" />
-        <option value="$PROJECT_DIR$/54. Spiral Matrix/answer.py" />
-        <option value="$PROJECT_DIR$/140. Word Break II/README.md" />
-        <option value="$PROJECT_DIR$/140. Word Break II/answer.py" />
-        <option value="$PROJECT_DIR$/140. Word Break II/answer_time_limit.py" />
-        <option value="$PROJECT_DIR$/140. Word Break II/answer_dp.py" />
         <option value="$PROJECT_DIR$/344. Reverse String/README.md" />
         <option value="$PROJECT_DIR$/344. Reverse String/answer.py" />
         <option value="$PROJECT_DIR$/200. Number of Islands/README.md" />
@@ -163,6 +160,13 @@
         <option value="$PROJECT_DIR$/617. Merge Two Binary Trees/answer.py" />
         <option value="$PROJECT_DIR$/239. Sliding Window Maximum/README.md" />
         <option value="$PROJECT_DIR$/239. Sliding Window Maximum/answer.py" />
+        <option value="$PROJECT_DIR$/662. Maximum Width of Binary Tree/README.md" />
+        <option value="$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer.py" />
+        <option value="$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer2.py" />
+        <option value="$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/README.md" />
+        <option value="$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/answer.py" />
+        <option value="$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/README.md" />
+        <option value="$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/answer.py" />
       </list>
     </option>
   </component>
@@ -217,12 +221,27 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="662. Maximum Width of Binary Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="1010. Pairs of Songs With Total Durations Divisible by 60" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="Amazon | OA 2019 | Min Cost to Connect Ropes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon | OA 2019 | Substrings of size K with K distinct chars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon | OA 2020 | Aircraft Route Optimization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
@@ -251,10 +270,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/662. Maximum Width of Binary Tree" />
       <recent name="$PROJECT_DIR$/138. Copy List with Random Pointer" />
       <recent name="$PROJECT_DIR$/399. Evaluate Division" />
       <recent name="$PROJECT_DIR$/140. Word Break II" />
-      <recent name="$PROJECT_DIR$/78. Subsets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer (1)">
+  <component name="RunManager" selected="Python.answer">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,11 +318,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1481. Least Number of Unique Integers after K Removals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/662. Maximum Width of Binary Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1481. Least Number of Unique Integers after K Removals/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,11 +339,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1010. Pairs of Songs With Total Durations Divisible by 60" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1010. Pairs of Songs With Total Durations Divisible by 60/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,11 +381,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon | OA 2019 | Min Cost to Connect Ropes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon | OA 2019 | Min Cost to Connect Ropes/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,19 +395,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer (3)" />
-      <item itemvalue="Python.answer" />
-      <item itemvalue="Python.answer (4)" />
       <item itemvalue="Python.answer (5)" />
       <item itemvalue="Python.answer (1)" />
+      <item itemvalue="Python.answer (2)" />
+      <item itemvalue="Python.answer (3)" />
+      <item itemvalue="Python.answer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.answer (1)" />
-        <item itemvalue="Python.answer (5)" />
-        <item itemvalue="Python.answer (4)" />
         <item itemvalue="Python.answer" />
         <item itemvalue="Python.answer (3)" />
+        <item itemvalue="Python.answer (2)" />
+        <item itemvalue="Python.answer (1)" />
+        <item itemvalue="Python.answer (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -433,74 +452,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/140. Word Break II/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <marker date="1588761631000" expanded="true" signature="51:55" ph="..." />
-            <marker date="1588761631000" expanded="true" signature="72:77" ph="..." />
-            <marker date="1588761631000" expanded="true" signature="120:677" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140. Word Break II/answer_dp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140. Word Break II/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="385">
-            <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/344. Reverse String/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/344. Reverse String/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/200. Number of Islands/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/200. Number of Islands/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
-          <folding>
-            <marker date="1606150601000" expanded="true" signature="28:29" ph="..." />
-            <marker date="1606150601000" expanded="true" signature="213:664" ph="..." />
-            <marker date="1606150601000" expanded="true" signature="663:664" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python3.7/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
@@ -889,6 +840,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/239. Sliding Window Maximum/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <marker date="1606961201000" expanded="true" signature="36:218" ph="..." />
+            <marker date="1606961201000" expanded="true" signature="219:221" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/239. Sliding Window Maximum/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -899,13 +861,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/239. Sliding Window Maximum/answer.py">
+    <entry file="file://$PROJECT_DIR$/662. Maximum Width of Binary Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="810">
+            <caret line="54" column="113" selection-start-line="54" selection-start-column="113" selection-end-line="54" selection-end-column="113" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="315">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding>
-            <marker date="1606960968000" expanded="true" signature="36:218" ph="..." />
-            <marker date="1606960968000" expanded="true" signature="219:221" ph="..." />
+            <marker date="1607044448000" expanded="true" signature="534:1236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1607046937000" expanded="true" signature="17:222" ph="..." />
+            <marker date="1607046937000" expanded="true" signature="17:239" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <marker date="1607047896000" expanded="true" signature="72:852" ph="..." />
           </folding>
         </state>
       </provider>
