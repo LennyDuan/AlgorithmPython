@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/79. Word Search/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/79. Word Search/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/79. Word Search/answer_90%.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,16 +28,16 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="61" />
-          <entry key="py" value="100" />
+          <entry key="md" value="62" />
+          <entry key="py" value="101" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="61" />
+          <entry key="Markdown" value="62" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="100" />
+          <entry key="Python" value="101" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -46,52 +45,29 @@
         <counts>
           <entry key="dummy" value="67" />
           <entry key="md" value="25" />
-          <entry key="py" value="31968" />
+          <entry key="py" value="32733" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="67" />
-          <entry key="Python" value="31968" />
+          <entry key="Python" value="32733" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/79. Word Search/answer_90%.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-              <folding>
-                <marker date="1609276492000" expanded="true" signature="67:1410" ph="..." />
-                <marker date="1609276492000" expanded="true" signature="314:997" ph="..." />
-                <marker date="1609276492000" expanded="true" signature="1405:1406" ph="..." />
-                <marker date="1609276492000" expanded="true" signature="1405:1410" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/79. Word Search/answer.py">
+        <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/79. Word Search/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="15">
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" />
+              <folding>
+                <marker date="1609325161000" expanded="true" signature="27:331" ph="..." />
+                <marker date="1609325161000" expanded="true" signature="64:278" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,8 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/682. Baseball Game/README.md" />
-        <option value="$PROJECT_DIR$/682. Baseball Game/answer.py" />
         <option value="$PROJECT_DIR$/110. Balanced Binary Tree/README.md" />
         <option value="$PROJECT_DIR$/110. Balanced Binary Tree/answer.py" />
         <option value="$PROJECT_DIR$/Amazon | OA 2019 | Optimal Utilization/README.md" />
@@ -177,6 +151,8 @@
         <option value="$PROJECT_DIR$/64. Minimum Path Sum/answer.py" />
         <option value="$PROJECT_DIR$/79. Word Search/README.md" />
         <option value="$PROJECT_DIR$/79. Word Search/answer.py" />
+        <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/README.md" />
+        <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py" />
       </list>
     </option>
   </component>
@@ -271,6 +247,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="98. Validate Binary Search Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="102. Binary Tree Level Order Traversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -339,8 +320,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/79. Word Search" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/79. Word Search" />
       <recent name="$PROJECT_DIR$/102. Binary Tree Level Order Traversal" />
       <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$/56. Merge Intervals" />
@@ -498,7 +479,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.27482128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.27482128" />
       <window_info id="Structure" order="1" sideWeight="0.16734694" side_tool="true" weight="0.24225576" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -509,7 +490,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.269863" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.269863" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -542,26 +523,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <marker date="1606249204000" expanded="true" signature="184:189" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon |  Distance Between Nodes in BST/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon |  Distance Between Nodes in BST/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -1030,8 +991,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/79. Word Search/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        <state relative-caret-position="315">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" />
+          <folding>
+            <marker date="1609325161000" expanded="true" signature="27:331" ph="..." />
+            <marker date="1609325161000" expanded="true" signature="64:278" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
