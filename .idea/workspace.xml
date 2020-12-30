@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer_inorder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,16 +29,16 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="62" />
-          <entry key="py" value="101" />
+          <entry key="md" value="64" />
+          <entry key="py" value="103" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="62" />
+          <entry key="Markdown" value="64" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="101" />
+          <entry key="Python" value="103" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -45,14 +46,14 @@
         <counts>
           <entry key="dummy" value="67" />
           <entry key="md" value="25" />
-          <entry key="py" value="32733" />
+          <entry key="py" value="33112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="67" />
-          <entry key="Python" value="32733" />
+          <entry key="Python" value="33112" />
         </counts>
       </usages-collector>
     </session>
@@ -60,14 +61,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py">
+        <entry file="file://$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer_inorder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" />
-              <folding>
-                <marker date="1609325161000" expanded="true" signature="27:331" ph="..." />
-                <marker date="1609325161000" expanded="true" signature="64:278" ph="..." />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -102,9 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/110. Balanced Binary Tree/README.md" />
-        <option value="$PROJECT_DIR$/110. Balanced Binary Tree/answer.py" />
-        <option value="$PROJECT_DIR$/Amazon | OA 2019 | Optimal Utilization/README.md" />
         <option value="$PROJECT_DIR$/Amazon | OA 2019 | Optimal Utilization/answer.py" />
         <option value="$PROJECT_DIR$/1481. Least Number of Unique Integers after K Removals/README.md" />
         <option value="$PROJECT_DIR$/1481. Least Number of Unique Integers after K Removals/answer.py" />
@@ -153,6 +147,9 @@
         <option value="$PROJECT_DIR$/79. Word Search/answer.py" />
         <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/README.md" />
         <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py" />
+        <option value="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/README.md" />
+        <option value="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer.py" />
+        <option value="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer_inorder.py" />
       </list>
     </option>
   </component>
@@ -257,6 +254,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="109. Convert Sorted List to Binary Search Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="239. Sliding Window Maximum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -320,11 +322,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/79. Word Search" />
       <recent name="$PROJECT_DIR$/102. Binary Tree Level Order Traversal" />
       <recent name="$PROJECT_DIR$/.." />
-      <recent name="$PROJECT_DIR$/56. Merge Intervals" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -523,33 +525,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Amazon |  Distance Between Nodes in BST/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="77" column="7" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon | OA 2019 | Min Cost to Connect Ropes/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/110. Balanced Binary Tree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1010. Pairs of Songs With Total Durations Divisible by 60/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1008,12 +983,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" />
+        <state relative-caret-position="150">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
           <folding>
-            <marker date="1609325161000" expanded="true" signature="27:331" ph="..." />
-            <marker date="1609325161000" expanded="true" signature="64:278" ph="..." />
+            <marker date="1609325219000" expanded="true" signature="27:338" ph="..." />
+            <marker date="1609325219000" expanded="true" signature="64:285" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+          <folding>
+            <marker date="1609332157000" expanded="true" signature="32:37" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer_inorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
