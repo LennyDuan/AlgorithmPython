@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/146. LRU Cache/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/146. LRU Cache/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/146. LRU Cache/answer_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/300. Longest Increasing Subsequence/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/767. Reorganize String/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/767. Reorganize String/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,16 +30,16 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="70" />
-          <entry key="py" value="112" />
+          <entry key="md" value="72" />
+          <entry key="py" value="114" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="70" />
+          <entry key="Markdown" value="72" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="112" />
+          <entry key="Python" value="114" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -47,38 +47,25 @@
         <counts>
           <entry key="dummy" value="67" />
           <entry key="md" value="25" />
-          <entry key="py" value="33739" />
+          <entry key="py" value="34427" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="67" />
-          <entry key="Python" value="33739" />
+          <entry key="Python" value="34427" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/146. LRU Cache/answer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <marker date="1609338041000" expanded="true" signature="137:175" ph="..." />
-                <marker date="1609338041000" expanded="true" signature="356:361" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/146. LRU Cache/answer_queue.py">
+        <entry file="file://$PROJECT_DIR$/767. Reorganize String/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="271">
+              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -114,10 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Amazon | OA 2019 | Min Cost to Connect Ropes/answer.py" />
-        <option value="$PROJECT_DIR$/Amazon |  Distance Between Nodes in BST/answer.py" />
-        <option value="$PROJECT_DIR$/1010. Pairs of Songs With Total Durations Divisible by 60/README.md" />
-        <option value="$PROJECT_DIR$/1010. Pairs of Songs With Total Durations Divisible by 60/answer.py" />
         <option value="$PROJECT_DIR$/Amazon | OA 2020 | Top K Frequently Mentioned Keywords/README.md" />
         <option value="$PROJECT_DIR$/Amazon | OA 2020 | Top K Frequently Mentioned Keywords/answer.py" />
         <option value="$PROJECT_DIR$/617. Merge Two Binary Trees/README.md" />
@@ -165,6 +148,10 @@
         <option value="$PROJECT_DIR$/146. LRU Cache/README.md" />
         <option value="$PROJECT_DIR$/146. LRU Cache/answer.py" />
         <option value="$PROJECT_DIR$/146. LRU Cache/answer_queue.py" />
+        <option value="$PROJECT_DIR$/300. Longest Increasing Subsequence/README.md" />
+        <option value="$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py" />
+        <option value="$PROJECT_DIR$/767. Reorganize String/README.md" />
+        <option value="$PROJECT_DIR$/767. Reorganize String/answer.py" />
       </list>
     </option>
   </component>
@@ -226,6 +213,16 @@
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="146. LRU Cache" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="300. Longest Increasing Subsequence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="767. Reorganize String" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -242,8 +239,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/146. LRU Cache" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/146. LRU Cache" />
       <recent name="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree" />
       <recent name="$PROJECT_DIR$/79. Word Search" />
       <recent name="$PROJECT_DIR$/102. Binary Tree Level Order Traversal" />
@@ -261,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer (2)">
+  <component name="RunManager" selected="Python.answer">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,11 +309,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/36. Valid Sudoku" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/300. Longest Increasing Subsequence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/36. Valid Sudoku/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,11 +351,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/56. Merge Intervals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/767. Reorganize String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/56. Merge Intervals/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/767. Reorganize String/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,19 +365,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer" />
-      <item itemvalue="Python.answer (4)" />
       <item itemvalue="Python.answer (5)" />
       <item itemvalue="Python.answer (1)" />
       <item itemvalue="Python.answer (2)" />
+      <item itemvalue="Python.answer (3)" />
+      <item itemvalue="Python.answer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer" />
+        <item itemvalue="Python.answer (3)" />
         <item itemvalue="Python.answer (2)" />
         <item itemvalue="Python.answer (1)" />
         <item itemvalue="Python.answer (5)" />
-        <item itemvalue="Python.answer (4)" />
-        <item itemvalue="Python.answer" />
       </list>
     </recent_temporary>
   </component>
@@ -401,18 +398,18 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.33915806" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.30976966" />
       <window_info id="Structure" order="1" sideWeight="0.16734694" side_tool="true" weight="0.24225576" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.42054793" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.42054793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.269863" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.269863" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -445,43 +442,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/239. Sliding Window Maximum/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/662. Maximum Width of Binary Tree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="810">
-            <caret line="54" column="113" selection-start-line="54" selection-start-column="113" selection-end-line="54" selection-end-column="113" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding>
-            <marker date="1607044448000" expanded="true" signature="534:1236" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -902,6 +862,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/146. LRU Cache/answer_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/146. LRU Cache/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -913,10 +880,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/146. LRU Cache/answer_queue.py">
+    <entry file="file://$PROJECT_DIR$/300. Longest Increasing Subsequence/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state>
+          <caret selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/767. Reorganize String/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/767. Reorganize String/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
         </state>
       </provider>
     </entry>
