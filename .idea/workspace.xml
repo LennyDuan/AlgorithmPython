@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/207. Course Schedule/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/207. Course Schedule/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_bfs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,31 +30,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="76" />
-          <entry key="py" value="122" />
+          <entry key="md" value="78" />
+          <entry key="py" value="125" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="76" />
+          <entry key="Markdown" value="78" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="122" />
+          <entry key="Python" value="125" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="85" />
+          <entry key="dummy" value="89" />
           <entry key="md" value="25" />
-          <entry key="py" value="36691" />
+          <entry key="py" value="37225" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
-          <entry key="PLAIN_TEXT" value="85" />
-          <entry key="Python" value="36691" />
+          <entry key="PLAIN_TEXT" value="89" />
+          <entry key="Python" value="37225" />
         </counts>
       </usages-collector>
     </session>
@@ -60,14 +62,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer.py">
+        <entry file="file://$PROJECT_DIR$/207. Course Schedule/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            <state relative-caret-position="221">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
-                <marker date="1609760775000" expanded="true" signature="83:835" ph="..." />
-                <marker date="1609760775000" expanded="true" signature="246:824" ph="..." />
+                <marker date="1609842659000" expanded="true" signature="62:67" ph="..." />
+                <marker date="1609842659000" expanded="true" signature="405:627" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/207. Course Schedule/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -104,9 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer.py" />
-        <option value="$PROJECT_DIR$/662. Maximum Width of Binary Tree/answer2.py" />
-        <option value="$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/README.md" />
         <option value="$PROJECT_DIR$/Amazon | OA 2019 | Substrings of size K with K distinct chars/answer.py" />
         <option value="$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/README.md" />
         <option value="$PROJECT_DIR$/Amazon | OA 2020 | Aircraft Route Optimization/answer.py" />
@@ -155,6 +166,9 @@
         <option value="$PROJECT_DIR$/417. Pacific Atlantic Water Flow/answer.py" />
         <option value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/README.md" />
         <option value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer.py" />
+        <option value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dp.py" />
+        <option value="$PROJECT_DIR$/207. Course Schedule/README.md" />
+        <option value="$PROJECT_DIR$/207. Course Schedule/answer.py" />
       </list>
     </option>
   </component>
@@ -219,6 +233,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="207. Course Schedule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="295. Find Median from Data Stream" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,10 +277,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix" />
       <recent name="$PROJECT_DIR$/417. Pacific Atlantic Water Flow" />
       <recent name="$PROJECT_DIR$/295. Find Median from Data Stream" />
       <recent name="$PROJECT_DIR$/146. LRU Cache" />
-      <recent name="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -276,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer (1)">
+  <component name="RunManager" selected="Python.answer (2)">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,7 +308,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,11 +325,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/300. Longest Increasing Subsequence" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/207. Course Schedule" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/207. Course Schedule/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer_dp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,11 +388,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/767. Reorganize String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/767. Reorganize String/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -383,19 +402,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer (3)" />
-      <item itemvalue="Python.answer" />
       <item itemvalue="Python.answer (4)" />
       <item itemvalue="Python.answer (5)" />
       <item itemvalue="Python.answer (1)" />
+      <item itemvalue="Python.answer_dp" />
+      <item itemvalue="Python.answer (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer (2)" />
+        <item itemvalue="Python.answer_dp" />
         <item itemvalue="Python.answer (1)" />
         <item itemvalue="Python.answer (5)" />
         <item itemvalue="Python.answer (4)" />
-        <item itemvalue="Python.answer" />
-        <item itemvalue="Python.answer (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -460,47 +479,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <marker date="1607367694000" expanded="true" signature="43:327" ph="..." />
-            <marker date="1607367694000" expanded="true" signature="99:218" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8. String to Integer (atoi)/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="585">
-            <caret line="39" column="122" selection-start-line="39" selection-start-column="122" selection-end-line="39" selection-end-column="122" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8. String to Integer (atoi)/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <marker date="1607368349000" expanded="true" signature="227:228" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -911,13 +889,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer.py">
+    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dfs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="201">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_bfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/207. Course Schedule/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/207. Course Schedule/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding>
-            <marker date="1609760775000" expanded="true" signature="83:835" ph="..." />
-            <marker date="1609760775000" expanded="true" signature="246:824" ph="..." />
+            <marker date="1609842659000" expanded="true" signature="62:67" ph="..." />
+            <marker date="1609842659000" expanded="true" signature="405:627" ph="..." />
           </folding>
         </state>
       </provider>
