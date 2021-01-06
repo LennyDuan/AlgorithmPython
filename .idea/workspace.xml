@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/210. Course Schedule 2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210. Course Schedule 2/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/210. Course Schedule 2/answer_timeErr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/529. Minesweeper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/529. Minesweeper/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/207. Course Schedule/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/207. Course Schedule/answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,17 +28,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="79" />
-          <entry key="py" value="128" />
+          <entry key="md" value="80" />
+          <entry key="py" value="129" />
           <entry key="pyi" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="79" />
+          <entry key="Markdown" value="80" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="128" />
+          <entry key="Python" value="129" />
           <entry key="PythonStub" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -49,14 +47,14 @@
         <counts>
           <entry key="dummy" value="92" />
           <entry key="md" value="25" />
-          <entry key="py" value="38218" />
+          <entry key="py" value="39239" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="92" />
-          <entry key="Python" value="38218" />
+          <entry key="Python" value="39239" />
         </counts>
       </usages-collector>
     </session>
@@ -64,14 +62,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/210. Course Schedule 2/answer.py">
+        <entry file="file://$PROJECT_DIR$/529. Minesweeper/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="187">
+              <caret line="56" column="45" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="45" />
               <folding>
-                <marker date="1609847222000" expanded="true" signature="60:875" ph="..." />
-                <marker date="1609847222000" expanded="true" signature="151:301" ph="..." />
-                <marker date="1609847222000" expanded="true" signature="721:853" ph="..." />
+                <marker date="1609933599000" expanded="true" signature="75:80" ph="..." />
+                <marker date="1609933599000" expanded="true" signature="619:1671" ph="..." />
               </folding>
             </state>
           </provider>
@@ -99,6 +96,8 @@
       <find>popItem</find>
       <find>type</find>
       <find>sorted</find>
+      <find>2 3</find>
+      <find>1</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -110,8 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Amazon | OA 2020 | Largest Item Association/README.md" />
-        <option value="$PROJECT_DIR$/Amazon | OA 2020 | Largest Item Association/answer.py" />
         <option value="$PROJECT_DIR$/1. Two Sum/README.md" />
         <option value="$PROJECT_DIR$/1. Two Sum/answer.py" />
         <option value="$PROJECT_DIR$/5. Longest Palindromic Substring/README.md" />
@@ -161,6 +158,8 @@
         <option value="$PROJECT_DIR$/207. Course Schedule 2/README.md" />
         <option value="$PROJECT_DIR$/210. Course Schedule 2/answer_time.py" />
         <option value="$PROJECT_DIR$/210. Course Schedule 2/answer.py" />
+        <option value="$PROJECT_DIR$/529. Minesweeper/README.md" />
+        <option value="$PROJECT_DIR$/529. Minesweeper/answer.py" />
       </list>
     </option>
   </component>
@@ -255,6 +254,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="529. Minesweeper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="767. Reorganize String" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -273,8 +277,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/210. Course Schedule 2" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/210. Course Schedule 2" />
       <recent name="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix" />
       <recent name="$PROJECT_DIR$/417. Pacific Atlantic Water Flow" />
       <recent name="$PROJECT_DIR$/295. Find Median from Data Stream" />
@@ -292,28 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer">
-    <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.answer (3)">
     <configuration name="answer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,6 +310,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/207. Course Schedule/answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/529. Minesweeper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/529. Minesweeper/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,19 +403,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer (1)" />
       <item itemvalue="Python.answer_dp" />
       <item itemvalue="Python.answer (2)" />
       <item itemvalue="Python.answer" />
       <item itemvalue="Python.answer_time" />
+      <item itemvalue="Python.answer (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer (3)" />
         <item itemvalue="Python.answer" />
         <item itemvalue="Python.answer_time" />
         <item itemvalue="Python.answer (2)" />
         <item itemvalue="Python.answer_dp" />
-        <item itemvalue="Python.answer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -437,13 +441,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.43150684" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.30958903" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.269863" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.34657535" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -452,18 +456,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.27482128" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.30976966" />
       <window_info id="Structure" order="1" sideWeight="0.16734694" side_tool="true" weight="0.24225576" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.42054793" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.39726028" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.36301368" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.34657535" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -476,27 +480,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/56. Merge Intervals/answer_po.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-          <folding>
-            <marker date="1609177589000" expanded="true" signature="61:1197" ph="..." />
-            <marker date="1609177589000" expanded="true" signature="1194:1197" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/36. Valid Sudoku/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="202">
-            <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="23" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -920,6 +903,27 @@
             <marker date="1609847222000" expanded="true" signature="60:875" ph="..." />
             <marker date="1609847222000" expanded="true" signature="151:301" ph="..." />
             <marker date="1609847222000" expanded="true" signature="721:853" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/529. Minesweeper/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="453">
+            <caret line="59" column="223" selection-start-line="59" selection-start-column="223" selection-end-line="59" selection-end-column="223" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/529. Minesweeper/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="56" column="45" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="45" />
+          <folding>
+            <marker date="1609933599000" expanded="true" signature="75:80" ph="..." />
+            <marker date="1609933599000" expanded="true" signature="619:1671" ph="..." />
           </folding>
         </state>
       </provider>
