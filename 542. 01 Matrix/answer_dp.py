@@ -3,25 +3,20 @@ def updateMatrix(self, matrix):
         return matrix
     y_max = len(matrix)
     x_max = len(matrix[0])
-    res = matrix[:]
 
     for y in range(y_max):
         for x in range(x_max):
-            if matrix[y][x] == 0:
-                res[y][x] = 0
-            else:
-                if x > 0:
-                    res[y][x] = 1 + min(res[y][x], res[y][x - 1])
-                if y > 0:
-                    res[y][x] = 1 + min(res[y][x], res[y - 1][x])
+            if matrix[y][x] :
+                top = matrix[y - 1][x] if y else float('inf')
+                left = matrix[y][x - 1] if x else float('inf')
+                matrix[y][x] = min(top, left) + 1
 
     for y in range(y_max - 1, -1, -1):
         for x in range(x_max - 1, -1, -1):
-            if x < x_max -1:
-                res[y][x] = min(res[y][x], 1 + res[y][x + 1])
-            if y < y_max - 1:
-                res[y][x] = min(res[y][x], 1 + res[y + 1][x])
-    return res
+            bottom = matrix[y + 1][x] if y < y_max - 1 else float('inf')
+            right = matrix[y][x + 1] if x < x_max - 1 else float('inf')
+            matrix[y][x] = min(matrix[y][x], bottom + 1, right + 1)
+    return matrix
 
 
 matrix = [
