@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/199. Binary Tree Right Side View/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer-o1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,18 +29,18 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="86" />
-          <entry key="py" value="139" />
-          <entry key="pyi" value="1" />
+          <entry key="md" value="87" />
+          <entry key="py" value="141" />
+          <entry key="pyi" value="2" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="86" />
+          <entry key="Markdown" value="87" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="139" />
-          <entry key="PythonStub" value="1" />
+          <entry key="Python" value="141" />
+          <entry key="PythonStub" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -47,14 +48,14 @@
         <counts>
           <entry key="dummy" value="111" />
           <entry key="md" value="25" />
-          <entry key="py" value="43532" />
+          <entry key="py" value="43778" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="111" />
-          <entry key="Python" value="43532" />
+          <entry key="Python" value="43778" />
         </counts>
       </usages-collector>
     </session>
@@ -62,10 +63,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py">
+        <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer-o1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="300">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -106,9 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/36. Valid Sudoku/README.md" />
-        <option value="$PROJECT_DIR$/36. Valid Sudoku/answer.py" />
-        <option value="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/README.md" />
         <option value="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/answer.py" />
         <option value="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/answer_queue.py" />
         <option value="$PROJECT_DIR$/61. Rotate List/README.md" />
@@ -157,6 +155,9 @@
         <option value="$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py" />
         <option value="$PROJECT_DIR$/199. Binary Tree Right Side View/README.md" />
         <option value="$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py" />
+        <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/README.md" />
+        <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer.py" />
+        <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer-o1.py" />
       </list>
     </option>
   </component>
@@ -226,6 +227,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="380. Insert Delete GetRandom O(1)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="542. 01 Matrix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -244,11 +250,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/542. 01 Matrix" />
       <recent name="$PROJECT_DIR$/210. Course Schedule 2" />
       <recent name="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix" />
-      <recent name="$PROJECT_DIR$/417. Pacific Atlantic Water Flow" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -447,34 +453,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/79. Word Search/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding>
-            <marker date="1609325219000" expanded="true" signature="27:338" ph="..." />
-            <marker date="1609325219000" expanded="true" signature="64:285" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -716,13 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="914" column="4" selection-start-line="914" selection-start-column="4" selection-end-line="914" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/210. Course Schedule 2/answer_timeErr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -886,6 +857,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="104" selection-start-line="5" selection-start-column="104" selection-end-line="5" selection-end-column="104" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="630" column="8" selection-start-line="630" selection-start-column="8" selection-end-line="630" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer-o1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
