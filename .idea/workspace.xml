@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/542. 01 Matrix/answer_dp.py" beforeDir="false" afterPath="$PROJECT_DIR$/542. 01 Matrix/answer_dp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
           <entry key="md" value="85" />
-          <entry key="py" value="136" />
+          <entry key="py" value="138" />
           <entry key="pyi" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -36,7 +36,7 @@
         <counts>
           <entry key="Markdown" value="85" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="136" />
+          <entry key="Python" value="138" />
           <entry key="PythonStub" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -45,25 +45,34 @@
         <counts>
           <entry key="dummy" value="111" />
           <entry key="md" value="25" />
-          <entry key="py" value="42644" />
+          <entry key="py" value="43160" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="111" />
-          <entry key="Python" value="42644" />
+          <entry key="Python" value="43160" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_dp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="345">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -116,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/23. Merge k Sorted Lists/answer.py" />
         <option value="$PROJECT_DIR$/56. Merge Intervals/README.md" />
         <option value="$PROJECT_DIR$/56. Merge Intervals/answer.py" />
         <option value="$PROJECT_DIR$/36. Valid Sudoku/README.md" />
@@ -167,6 +175,7 @@
         <option value="$PROJECT_DIR$/542. 01 Matrix/README.md" />
         <option value="$PROJECT_DIR$/542. 01 Matrix/answer.py" />
         <option value="$PROJECT_DIR$/542. 01 Matrix/answer_dp.py" />
+        <option value="$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py" />
       </list>
     </option>
   </component>
@@ -268,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer_dp">
+  <component name="RunManager" selected="Python.answer_bfs">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer_bfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,11 +349,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/210. Course Schedule 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/542. 01 Matrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/210. Course Schedule 2/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +384,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer" />
       <item itemvalue="Python.answer (3)" />
       <item itemvalue="Python.answer (1)" />
       <item itemvalue="Python.answer (4)" />
       <item itemvalue="Python.answer_dp" />
+      <item itemvalue="Python.answer_bfs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer_bfs" />
         <item itemvalue="Python.answer_dp" />
         <item itemvalue="Python.answer (4)" />
         <item itemvalue="Python.answer (1)" />
         <item itemvalue="Python.answer (3)" />
-        <item itemvalue="Python.answer" />
       </list>
     </recent_temporary>
   </component>
@@ -452,17 +461,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/64. Minimum Path Sum/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <marker date="1609265805000" expanded="true" signature="27:672" ph="..." />
-            <marker date="1609265805000" expanded="true" signature="235:410" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/79. Word Search/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -887,22 +885,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_dp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_recursive_error_dp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="90">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-end-line="7" />
           <folding>
             <marker date="1610108656000" expanded="true" signature="31:1291" ph="..." />
-            <marker date="1610108656000" expanded="true" signature="336:1026" ph="..." />
-            <marker date="1610108656000" expanded="true" signature="1290:1291" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_dp.py">
+    <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="25">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
