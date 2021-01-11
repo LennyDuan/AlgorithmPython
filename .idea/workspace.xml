@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/199. Binary Tree Right Side View/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,17 +28,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="85" />
-          <entry key="py" value="138" />
+          <entry key="md" value="86" />
+          <entry key="py" value="139" />
           <entry key="pyi" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="85" />
+          <entry key="Markdown" value="86" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="138" />
+          <entry key="Python" value="139" />
           <entry key="PythonStub" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -45,46 +47,25 @@
         <counts>
           <entry key="dummy" value="111" />
           <entry key="md" value="25" />
-          <entry key="py" value="43160" />
+          <entry key="py" value="43532" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="111" />
-          <entry key="Python" value="43160" />
+          <entry key="Python" value="43532" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_dp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py">
+        <entry file="file://$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/542. 01 Matrix/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="397">
-                <caret line="34" column="73" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="258">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -125,8 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/56. Merge Intervals/README.md" />
-        <option value="$PROJECT_DIR$/56. Merge Intervals/answer.py" />
         <option value="$PROJECT_DIR$/36. Valid Sudoku/README.md" />
         <option value="$PROJECT_DIR$/36. Valid Sudoku/answer.py" />
         <option value="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/README.md" />
@@ -176,6 +155,8 @@
         <option value="$PROJECT_DIR$/542. 01 Matrix/answer.py" />
         <option value="$PROJECT_DIR$/542. 01 Matrix/answer_dp.py" />
         <option value="$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py" />
+        <option value="$PROJECT_DIR$/199. Binary Tree Right Side View/README.md" />
+        <option value="$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py" />
       </list>
     </option>
   </component>
@@ -225,6 +206,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="199. Binary Tree Right Side View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="208. Implement Trie (Prefix Tree)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,8 +244,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/542. 01 Matrix" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/542. 01 Matrix" />
       <recent name="$PROJECT_DIR$/210. Course Schedule 2" />
       <recent name="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix" />
       <recent name="$PROJECT_DIR$/417. Pacific Atlantic Water Flow" />
@@ -417,18 +403,18 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.30976966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.31771246" />
       <window_info id="Structure" order="1" sideWeight="0.16734694" side_tool="true" weight="0.24225576" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.30547947" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.30547947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.34657535" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.34657535" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -461,29 +447,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/79. Word Search/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/79. Word Search/answer_90%.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-          <folding>
-            <marker date="1609276492000" expanded="true" signature="67:1410" ph="..." />
-            <marker date="1609276492000" expanded="true" signature="314:997" ph="..." />
-            <marker date="1609276492000" expanded="true" signature="1405:1406" ph="..." />
-            <marker date="1609276492000" expanded="true" signature="1405:1410" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/79. Word Search/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -875,16 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/542. 01 Matrix/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="397">
-            <caret line="34" column="73" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_dp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -904,8 +857,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="255">
           <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/542. 01 Matrix/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="397">
+            <caret line="34" column="73" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/199. Binary Tree Right Side View/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
