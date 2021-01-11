@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1396. Design Underground System/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1396. Design Underground System/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55. Jump Game/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55. Jump Game/answer-dp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55. Jump Game/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55. Jump Game/answer_time_limited_70%75.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,48 +31,68 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="91" />
-          <entry key="py" value="147" />
+          <entry key="md" value="92" />
+          <entry key="py" value="151" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="91" />
+          <entry key="Markdown" value="92" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="147" />
+          <entry key="Python" value="151" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="116" />
+          <entry key="dummy" value="137" />
           <entry key="md" value="25" />
-          <entry key="py" value="46622" />
+          <entry key="py" value="48143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
-          <entry key="PLAIN_TEXT" value="116" />
-          <entry key="Python" value="46622" />
+          <entry key="PLAIN_TEXT" value="137" />
+          <entry key="Python" value="48143" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1396. Design Underground System/answer.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/55. Jump Game/answer_time_limited_70%75.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="180">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding>
-                <marker date="1610386004000" expanded="true" signature="95:101" ph="..." />
-                <marker date="1610386004000" expanded="true" signature="162:208" ph="..." />
-                <marker date="1610386004000" expanded="true" signature="309:824" ph="..." />
+                <marker date="1610403227000" expanded="true" signature="32:589" ph="..." />
+                <marker date="1610403227000" expanded="true" signature="496:500" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/55. Jump Game/answer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/55. Jump Game/answer-dp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <marker date="1610404995000" expanded="true" signature="32:343" ph="..." />
               </folding>
             </state>
           </provider>
@@ -112,9 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/98. Validate Binary Search Tree/answer.py" />
-        <option value="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/README.md" />
-        <option value="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer.py" />
         <option value="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer_inorder.py" />
         <option value="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/answer.py" />
         <option value="$PROJECT_DIR$/146. LRU Cache/README.md" />
@@ -163,6 +183,9 @@
         <option value="$PROJECT_DIR$/20. Valid Parentheses/answer.py" />
         <option value="$PROJECT_DIR$/1396. Design Underground System/README.md" />
         <option value="$PROJECT_DIR$/1396. Design Underground System/answer.py" />
+        <option value="$PROJECT_DIR$/55. Jump Game/README.md" />
+        <option value="$PROJECT_DIR$/55. Jump Game/answer.py" />
+        <option value="$PROJECT_DIR$/55. Jump Game/answer-dp.py" />
       </list>
     </option>
   </component>
@@ -212,6 +235,16 @@
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="20. Valid Parentheses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="38. Count and Say" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="55. Jump Game" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
@@ -270,11 +303,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/55. Jump Game" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/797. All Paths From Source to Target" />
       <recent name="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)" />
       <recent name="$PROJECT_DIR$/542. 01 Matrix" />
-      <recent name="$PROJECT_DIR$/210. Course Schedule 2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -292,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer (3)">
+  <component name="RunManager" selected="Python.answer-dp">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,27 +339,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20. Valid Parentheses/answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="answer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/797. All Paths From Source to Target" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/797. All Paths From Source to Target/answer_backtracking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,11 +376,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/797. All Paths From Source to Target" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/55. Jump Game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/797. All Paths From Source to Target/answer-bfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55. Jump Game/answer_time_limited_70%75.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,7 +389,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer_bfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,11 +397,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/542. 01 Matrix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/55. Jump Game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55. Jump Game/answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="answer-dp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/55. Jump Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55. Jump Game/answer-dp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,19 +432,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer_bfs" />
-      <item itemvalue="Python.answer" />
-      <item itemvalue="Python.answer (2)" />
       <item itemvalue="Python.answer (1)" />
       <item itemvalue="Python.answer (3)" />
+      <item itemvalue="Python.answer (4)" />
+      <item itemvalue="Python.answer (5)" />
+      <item itemvalue="Python.answer-dp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer-dp" />
+        <item itemvalue="Python.answer (5)" />
+        <item itemvalue="Python.answer (4)" />
         <item itemvalue="Python.answer (3)" />
         <item itemvalue="Python.answer (1)" />
-        <item itemvalue="Python.answer (2)" />
-        <item itemvalue="Python.answer" />
-        <item itemvalue="Python.answer_bfs" />
       </list>
     </recent_temporary>
   </component>
@@ -432,8 +465,8 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.3169182" />
-      <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" visible="true" weight="0.3169182" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23987292" />
+      <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" weight="0.3169182" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
@@ -452,12 +485,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83265305" visible="true" weight="0.30976966" />
-      <window_info id="Structure" order="1" sideWeight="0.16734694" side_tool="true" weight="0.24225576" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.3169182" />
+      <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" visible="true" weight="0.3169182" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.39726028" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.30547947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -476,47 +509,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/767. Reorganize String/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/767. Reorganize String/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" selection-start-line="26" selection-end-line="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7/collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3127">
-          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/answer_sortedList.py" />
     <entry file="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7/bisect.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -546,6 +538,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <marker date="1609759087000" expanded="true" signature="34:76" ph="..." />
+            <marker date="1609759087000" expanded="true" signature="320:2409" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -619,6 +615,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <marker date="1609847222000" expanded="true" signature="60:875" ph="..." />
+            <marker date="1609847222000" expanded="true" signature="151:301" ph="..." />
+            <marker date="1609847222000" expanded="true" signature="721:853" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -694,6 +695,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <marker date="1610101798000" expanded="true" signature="34:1019" ph="..." />
+            <marker date="1610101798000" expanded="true" signature="733:1006" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -866,14 +871,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/38. Count and Say/answer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/1396. Design Underground System/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <caret line="18" column="45" selection-end-line="33" selection-end-column="55" />
           <folding>
             <marker date="1610386004000" expanded="true" signature="95:101" ph="..." />
             <marker date="1610386004000" expanded="true" signature="162:208" ph="..." />
             <marker date="1610386004000" expanded="true" signature="309:824" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/55. Jump Game/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="143" selection-start-line="17" selection-start-column="143" selection-end-line="17" selection-end-column="143" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/55. Jump Game/answer_time_limited_70%75.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <marker date="1610403227000" expanded="true" signature="32:589" ph="..." />
+            <marker date="1610403227000" expanded="true" signature="496:500" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/55. Jump Game/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/55. Jump Game/answer-dp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <marker date="1610404995000" expanded="true" signature="32:343" ph="..." />
           </folding>
         </state>
       </provider>
