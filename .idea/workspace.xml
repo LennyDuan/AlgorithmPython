@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-passed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,17 +29,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="93" />
-          <entry key="py" value="155" />
+          <entry key="md" value="94" />
+          <entry key="py" value="156" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="93" />
+          <entry key="Markdown" value="94" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="155" />
+          <entry key="Python" value="156" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -49,36 +48,28 @@
         <counts>
           <entry key="dummy" value="142" />
           <entry key="md" value="25" />
-          <entry key="py" value="48561" />
+          <entry key="py" value="49063" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="142" />
-          <entry key="Python" value="48561" />
+          <entry key="Python" value="49063" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-passed.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="50" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py">
+        <entry file="file://$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="21" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1610480535000" expanded="true" signature="72:575" ph="..." />
+                <marker date="1610483431000" expanded="true" signature="46:327" ph="..." />
+                <marker date="1610483431000" expanded="true" signature="127:315" ph="..." />
               </folding>
             </state>
           </provider>
@@ -121,8 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/146. LRU Cache/answer_queue.py" />
-        <option value="$PROJECT_DIR$/300. Longest Increasing Subsequence/README.md" />
         <option value="$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py" />
         <option value="$PROJECT_DIR$/767. Reorganize String/README.md" />
         <option value="$PROJECT_DIR$/767. Reorganize String/answer.py" />
@@ -172,6 +161,8 @@
         <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer.py" />
         <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-passed.py" />
         <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py" />
+        <option value="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/README.md" />
+        <option value="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/answer.py" />
       </list>
     </option>
   </component>
@@ -270,6 +261,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="783. Minimum Distance Between BST Nodes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="797. All Paths From Source to Target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -294,8 +290,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree" />
       <recent name="$PROJECT_DIR$/55. Jump Game" />
       <recent name="$PROJECT_DIR$/797. All Paths From Source to Target" />
       <recent name="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)" />
@@ -461,13 +457,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.30547947" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.30547947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.34657535" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.34657535" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -500,24 +496,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/417. Pacific Atlantic Water Flow/answer_failed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <marker date="1609759087000" expanded="true" signature="34:76" ph="..." />
-            <marker date="1609759087000" expanded="true" signature="320:2409" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/417. Pacific Atlantic Water Flow/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -909,17 +887,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-passed.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="50" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="116" selection-start-line="17" selection-start-column="116" selection-end-line="17" selection-end-column="116" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="21" />
+        <state relative-caret-position="225">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="37" />
           <folding>
-            <marker date="1610480535000" expanded="true" signature="72:575" ph="..." />
+            <marker date="1610480653000" expanded="true" signature="72:595" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1610483431000" expanded="true" signature="46:327" ph="..." />
+            <marker date="1610483431000" expanded="true" signature="127:315" ph="..." />
           </folding>
         </state>
       </provider>
