@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/55. Jump Game/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55. Jump Game/answer-dp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55. Jump Game/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55. Jump Game/answer_time_limited_70%75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-passed.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,33 +30,33 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="92" />
-          <entry key="py" value="151" />
+          <entry key="md" value="93" />
+          <entry key="py" value="155" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="92" />
+          <entry key="Markdown" value="93" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="151" />
+          <entry key="Python" value="155" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="137" />
+          <entry key="dummy" value="142" />
           <entry key="md" value="25" />
-          <entry key="py" value="48143" />
+          <entry key="py" value="48561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
-          <entry key="PLAIN_TEXT" value="137" />
-          <entry key="Python" value="48143" />
+          <entry key="PLAIN_TEXT" value="142" />
+          <entry key="Python" value="48561" />
         </counts>
       </usages-collector>
     </session>
@@ -65,34 +64,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/55. Jump Game/answer_time_limited_70%75.py">
+        <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-passed.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-              <folding>
-                <marker date="1610403227000" expanded="true" signature="32:589" ph="..." />
-                <marker date="1610403227000" expanded="true" signature="496:500" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/55. Jump Game/answer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="18" column="50" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/55. Jump Game/answer-dp.py">
+        <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="21" />
               <folding>
-                <marker date="1610404995000" expanded="true" signature="32:343" ph="..." />
+                <marker date="1610480535000" expanded="true" signature="72:575" ph="..." />
               </folding>
             </state>
           </provider>
@@ -135,10 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/answer_inorder.py" />
-        <option value="$PROJECT_DIR$/116. Populating Next Right Pointers in Each Node/answer.py" />
-        <option value="$PROJECT_DIR$/146. LRU Cache/README.md" />
-        <option value="$PROJECT_DIR$/146. LRU Cache/answer.py" />
         <option value="$PROJECT_DIR$/146. LRU Cache/answer_queue.py" />
         <option value="$PROJECT_DIR$/300. Longest Increasing Subsequence/README.md" />
         <option value="$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py" />
@@ -186,6 +168,10 @@
         <option value="$PROJECT_DIR$/55. Jump Game/README.md" />
         <option value="$PROJECT_DIR$/55. Jump Game/answer.py" />
         <option value="$PROJECT_DIR$/55. Jump Game/answer-dp.py" />
+        <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/README.md" />
+        <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer.py" />
+        <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-passed.py" />
+        <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py" />
       </list>
     </option>
   </component>
@@ -289,6 +275,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="987. Vertical Order Traversal of a Binary Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="1396. Design Underground System" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -303,11 +294,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/55. Jump Game" />
+      <recent name="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/55. Jump Game" />
       <recent name="$PROJECT_DIR$/797. All Paths From Source to Target" />
       <recent name="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)" />
-      <recent name="$PROJECT_DIR$/542. 01 Matrix" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -325,28 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer-dp">
-    <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20. Valid Parentheses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20. Valid Parentheses/answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.answer">
     <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -431,20 +401,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.answer (1)" />
       <item itemvalue="Python.answer (3)" />
       <item itemvalue="Python.answer (4)" />
       <item itemvalue="Python.answer (5)" />
       <item itemvalue="Python.answer-dp" />
+      <item itemvalue="Python.answer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer" />
         <item itemvalue="Python.answer-dp" />
         <item itemvalue="Python.answer (5)" />
         <item itemvalue="Python.answer (4)" />
         <item itemvalue="Python.answer (3)" />
-        <item itemvalue="Python.answer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -465,12 +456,12 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23987292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23987292" />
       <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" weight="0.3169182" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.30547947" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.30547947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -509,31 +500,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/answer_sortedList.py" />
-    <entry file="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7/bisect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/295. Find Median from Data Stream/answer_bisect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/417. Pacific Atlantic Water Flow/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="102" selection-start-line="26" selection-start-column="102" selection-end-line="26" selection-end-column="102" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/417. Pacific Atlantic Water Flow/answer_failed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -896,21 +862,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/55. Jump Game/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/55. Jump Game/answer_time_limited_70%75.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="210">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <marker date="1610403227000" expanded="true" signature="32:589" ph="..." />
             <marker date="1610403227000" expanded="true" signature="496:500" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/55. Jump Game/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -920,6 +886,40 @@
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="12" selection-end-column="34" />
           <folding>
             <marker date="1610404995000" expanded="true" signature="32:343" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="407">
+            <caret line="28" column="92" selection-start-line="28" selection-start-column="92" selection-end-line="28" selection-end-column="92" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1199943126/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-passed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="21" />
+          <folding>
+            <marker date="1610480535000" expanded="true" signature="72:575" ph="..." />
           </folding>
         </state>
       </provider>
