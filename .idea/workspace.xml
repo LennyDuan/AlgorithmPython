@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/94. Binary Tree Inorder Traversal/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/94. Binary Tree Inorder Traversal/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,17 +32,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="97" />
-          <entry key="py" value="159" />
+          <entry key="md" value="100" />
+          <entry key="py" value="164" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="97" />
+          <entry key="Markdown" value="100" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="159" />
+          <entry key="Python" value="164" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -50,25 +51,34 @@
         <counts>
           <entry key="dummy" value="142" />
           <entry key="md" value="25" />
-          <entry key="py" value="49868" />
+          <entry key="py" value="50494" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="142" />
-          <entry key="Python" value="49868" />
+          <entry key="Python" value="50494" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="30" column="24" selection-end-line="35" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer_copy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -110,12 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/417. Pacific Atlantic Water Flow/README.md" />
-        <option value="$PROJECT_DIR$/417. Pacific Atlantic Water Flow/answer.py" />
-        <option value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/README.md" />
-        <option value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer.py" />
-        <option value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dp.py" />
-        <option value="$PROJECT_DIR$/207. Course Schedule/README.md" />
         <option value="$PROJECT_DIR$/207. Course Schedule/answer.py" />
         <option value="$PROJECT_DIR$/207. Course Schedule 2/README.md" />
         <option value="$PROJECT_DIR$/210. Course Schedule 2/answer_time.py" />
@@ -161,6 +165,12 @@
         <option value="$PROJECT_DIR$/94. Binary Tree Inorder Traversal/answer.py" />
         <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/README.md" />
         <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer.py" />
+        <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer-improve.py" />
+        <option value="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/README.md" />
+        <option value="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/answer.py" />
+        <option value="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/README.md" />
+        <option value="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer.py" />
+        <option value="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer_copy.py" />
       </list>
     </option>
   </component>
@@ -234,6 +244,16 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="105. Construct Binary Tree from Preorder and Inorder Traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="108. Convert Sorted Array to Binary Search Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="155. Min Stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -303,11 +323,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal" />
       <recent name="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree" />
       <recent name="$PROJECT_DIR$/55. Jump Game" />
-      <recent name="$PROJECT_DIR$/797. All Paths From Source to Target" />
-      <recent name="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -509,62 +529,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/210. Course Schedule 2/answer_timeErr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/210. Course Schedule 2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="275">
-            <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/210. Course Schedule 2/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <marker date="1609847222000" expanded="true" signature="60:875" ph="..." />
-            <marker date="1609847222000" expanded="true" signature="151:301" ph="..." />
-            <marker date="1609847222000" expanded="true" signature="721:853" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/529. Minesweeper/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="453">
-            <caret line="59" column="223" selection-start-line="59" selection-start-column="223" selection-end-line="59" selection-end-column="223" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/529. Minesweeper/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="56" column="45" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/211. Design Add and Search Words Data Structure/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -946,8 +910,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="30" column="24" selection-end-line="35" />
+        <state relative-caret-position="244">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer-improve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="7" selection-end-line="14" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-end-line="21" />
         </state>
       </provider>
     </entry>
