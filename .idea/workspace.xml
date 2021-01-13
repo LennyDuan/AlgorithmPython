@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="" />
+    <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/94. Binary Tree Inorder Traversal/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/94. Binary Tree Inorder Traversal/answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,17 +31,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="94" />
-          <entry key="py" value="156" />
+          <entry key="md" value="97" />
+          <entry key="py" value="159" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="94" />
+          <entry key="Markdown" value="97" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="156" />
+          <entry key="Python" value="159" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -44,14 +50,14 @@
         <counts>
           <entry key="dummy" value="142" />
           <entry key="md" value="25" />
-          <entry key="py" value="49144" />
+          <entry key="py" value="49868" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="142" />
-          <entry key="Python" value="49144" />
+          <entry key="Python" value="49868" />
         </counts>
       </usages-collector>
     </session>
@@ -59,14 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/answer.py">
+        <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <marker date="1610483600000" expanded="true" signature="46:370" ph="..." />
-                <marker date="1610483600000" expanded="true" signature="131:356" ph="..." />
-              </folding>
+            <state relative-caret-position="361">
+              <caret line="30" column="24" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -108,12 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/300. Longest Increasing Subsequence/answer.py" />
-        <option value="$PROJECT_DIR$/767. Reorganize String/README.md" />
-        <option value="$PROJECT_DIR$/767. Reorganize String/answer.py" />
-        <option value="$PROJECT_DIR$/295. Find Median from Data Stream/README.md" />
-        <option value="$PROJECT_DIR$/295. Find Median from Data Stream/answer.py" />
-        <option value="$PROJECT_DIR$/295. Find Median from Data Stream/answer_sortedList.py" />
         <option value="$PROJECT_DIR$/417. Pacific Atlantic Water Flow/README.md" />
         <option value="$PROJECT_DIR$/417. Pacific Atlantic Water Flow/answer.py" />
         <option value="$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/README.md" />
@@ -159,6 +155,12 @@
         <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py" />
         <option value="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/README.md" />
         <option value="$PROJECT_DIR$/783. Minimum Distance Between BST Nodes/answer.py" />
+        <option value="$PROJECT_DIR$/530. Minimum Absolute Difference in BST/README.md" />
+        <option value="$PROJECT_DIR$/530. Minimum Absolute Difference in BST/answer.py" />
+        <option value="$PROJECT_DIR$/94. Binary Tree Inorder Traversal/README.md" />
+        <option value="$PROJECT_DIR$/94. Binary Tree Inorder Traversal/answer.py" />
+        <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/README.md" />
+        <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer.py" />
       </list>
     </option>
   </component>
@@ -222,6 +224,16 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="94. Binary Tree Inorder Traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="103. Binary Tree Zigzag Level Order Traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="155. Min Stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -248,6 +260,11 @@
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="380. Insert Delete GetRandom O(1)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="530. Minimum Absolute Difference in BST" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
@@ -446,8 +463,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23987292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23987292" />
       <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" weight="0.3169182" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -458,7 +476,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.34657535" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.34657535" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -491,48 +509,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" column="91" selection-start-line="23" selection-start-column="91" selection-end-line="23" selection-end-column="91" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dfs.py" />
-    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_dp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/329. Longest Increasing Path in a Matrix/answer_bfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/207. Course Schedule/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/207. Course Schedule/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/210. Course Schedule 2/answer_timeErr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -915,6 +891,63 @@
             <marker date="1610483600000" expanded="true" signature="46:370" ph="..." />
             <marker date="1610483600000" expanded="true" signature="131:356" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/530. Minimum Absolute Difference in BST/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="99" selection-start-line="16" selection-start-column="99" selection-end-line="16" selection-end-column="99" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/530. Minimum Absolute Difference in BST/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1610484228000" expanded="true" signature="54:277" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/94. Binary Tree Inorder Traversal/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/94. Binary Tree Inorder Traversal/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <marker date="1610537632000" expanded="true" signature="75:239" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="24" selection-end-line="35" />
         </state>
       </provider>
     </entry>
