@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-inorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,17 +31,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="100" />
-          <entry key="py" value="164" />
+          <entry key="md" value="101" />
+          <entry key="py" value="167" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="100" />
+          <entry key="Markdown" value="101" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="164" />
+          <entry key="Python" value="167" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -51,14 +50,14 @@
         <counts>
           <entry key="dummy" value="142" />
           <entry key="md" value="25" />
-          <entry key="py" value="50494" />
+          <entry key="py" value="50949" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="142" />
-          <entry key="Python" value="50494" />
+          <entry key="Python" value="50949" />
         </counts>
       </usages-collector>
     </session>
@@ -66,19 +65,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer.py">
+        <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-end-line="18" />
+            <state relative-caret-position="165">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer_copy.py">
+        <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-end-line="21" />
+            <state relative-caret-position="195">
+              <caret line="13" column="23" lean-forward="true" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-inorder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -120,10 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/207. Course Schedule/answer.py" />
-        <option value="$PROJECT_DIR$/207. Course Schedule 2/README.md" />
-        <option value="$PROJECT_DIR$/210. Course Schedule 2/answer_time.py" />
-        <option value="$PROJECT_DIR$/210. Course Schedule 2/answer.py" />
         <option value="$PROJECT_DIR$/529. Minesweeper/README.md" />
         <option value="$PROJECT_DIR$/529. Minesweeper/answer.py" />
         <option value="$PROJECT_DIR$/211. Design Add and Search Words Data Structure/README.md" />
@@ -171,6 +175,10 @@
         <option value="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/README.md" />
         <option value="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer.py" />
         <option value="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal/answer_copy.py" />
+        <option value="$PROJECT_DIR$/230. Kth Smallest Element in a BST/README.md" />
+        <option value="$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer.py" />
+        <option value="$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-inorder.py" />
+        <option value="$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-stack.py" />
       </list>
     </option>
   </component>
@@ -219,41 +227,6 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="20. Valid Parentheses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="38. Count and Say" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="55. Jump Game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="94. Binary Tree Inorder Traversal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="103. Binary Tree Zigzag Level Order Traversal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="105. Construct Binary Tree from Preorder and Inorder Traversal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="108. Convert Sorted Array to Binary Search Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="155. Min Stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -275,6 +248,11 @@
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="212. Word Search II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="230. Kth Smallest Element in a BST" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
@@ -323,11 +301,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" />
+      <recent name="$PROJECT_DIR$/230. Kth Smallest Element in a BST" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" />
       <recent name="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal" />
       <recent name="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree" />
-      <recent name="$PROJECT_DIR$/55. Jump Game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -529,40 +507,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/211. Design Add and Search Words Data Structure/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/211. Design Add and Search Words Data Structure/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/212. Word Search II/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -960,6 +904,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="397">
+            <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-inorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" lean-forward="true" selection-end-line="22" />
         </state>
       </provider>
     </entry>
