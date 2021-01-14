@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/answer-TLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer_mine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,17 +30,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="104" />
-          <entry key="py" value="172" />
+          <entry key="md" value="105" />
+          <entry key="py" value="181" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="104" />
+          <entry key="Markdown" value="105" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="172" />
+          <entry key="Python" value="181" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -51,28 +49,37 @@
         <counts>
           <entry key="dummy" value="142" />
           <entry key="md" value="25" />
-          <entry key="py" value="52038" />
+          <entry key="py" value="53882" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="142" />
-          <entry key="Python" value="52038" />
+          <entry key="Python" value="53882" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/answer.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer_mine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="54" lean-forward="true" selection-end-line="24" />
+            <state relative-caret-position="125">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding>
-                <marker date="1610559894000" expanded="true" signature="624:658" ph="..." />
+                <marker date="1610588558000" expanded="true" signature="604:635" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="44" column="20" lean-forward="true" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -114,9 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/208. Implement Trie (Prefix Tree)/answer.py" />
-        <option value="$PROJECT_DIR$/211. Design Add and Search Words Data Structure/answer.py" />
-        <option value="$PROJECT_DIR$/212. Word Search II/README.md" />
         <option value="$PROJECT_DIR$/212. Word Search II/answer.py" />
         <option value="$PROJECT_DIR$/542. 01 Matrix/README.md" />
         <option value="$PROJECT_DIR$/542. 01 Matrix/answer.py" />
@@ -165,6 +169,9 @@
         <option value="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/answer.py" />
         <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/README.md" />
         <option value="$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/answer.py" />
+        <option value="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/README.md" />
+        <option value="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer_mine.py" />
+        <option value="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer.py" />
       </list>
     </option>
   </component>
@@ -213,21 +220,6 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="124. Binary Tree Maximum Path Sum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="155. Min Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
-              <item name="199. Binary Tree Right Side View" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="208. Implement Trie (Prefix Tree)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -254,6 +246,11 @@
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="236. Lowest Common Ancestor of a Binary Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="297. Serialize and Deserialize Binary Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
@@ -302,11 +299,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree" />
       <recent name="$PROJECT_DIR$/230. Kth Smallest Element in a BST" />
       <recent name="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" />
-      <recent name="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -464,7 +461,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.26290706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.3129468" />
       <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" weight="0.3169182" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -508,33 +505,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/199. Binary Tree Right Side View/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="104" selection-start-line="5" selection-start-column="104" selection-end-line="5" selection-end-column="104" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -876,27 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" lean-forward="true" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-inorder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="21" lean-forward="true" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -904,20 +853,6 @@
             <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/answer-TLE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -931,13 +866,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-inorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/124. Binary Tree Maximum Path Sum/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="54" lean-forward="true" selection-end-line="24" />
+        <state relative-caret-position="225">
+          <caret line="15" column="52" selection-end-line="23" />
           <folding>
-            <marker date="1610559894000" expanded="true" signature="624:658" ph="..." />
+            <marker date="1610559946000" expanded="true" signature="602:636" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/230. Kth Smallest Element in a BST/answer-stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/answer-TLE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer_mine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <marker date="1610588558000" expanded="true" signature="604:635" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="44" column="20" lean-forward="true" selection-end-line="51" />
         </state>
       </provider>
     </entry>
