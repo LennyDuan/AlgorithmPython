@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer_mine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/559. Maximum Depth of N-ary Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/559. Maximum Depth of N-ary Tree/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/572. Subtree of Another Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/572. Subtree of Another Tree/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,17 +33,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="105" />
-          <entry key="py" value="181" />
+          <entry key="md" value="108" />
+          <entry key="py" value="184" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="105" />
+          <entry key="Markdown" value="108" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="181" />
+          <entry key="Python" value="184" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -49,37 +52,25 @@
         <counts>
           <entry key="dummy" value="142" />
           <entry key="md" value="25" />
-          <entry key="py" value="53882" />
+          <entry key="py" value="54715" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="142" />
-          <entry key="Python" value="53882" />
+          <entry key="Python" value="54715" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer_mine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-              <folding>
-                <marker date="1610588558000" expanded="true" signature="604:635" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer.py">
+        <entry file="file://$PROJECT_DIR$/572. Subtree of Another Tree/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="44" column="20" lean-forward="true" selection-end-line="51" />
+            <state relative-caret-position="340">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -121,12 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/212. Word Search II/answer.py" />
-        <option value="$PROJECT_DIR$/542. 01 Matrix/README.md" />
-        <option value="$PROJECT_DIR$/542. 01 Matrix/answer.py" />
-        <option value="$PROJECT_DIR$/542. 01 Matrix/answer_dp.py" />
-        <option value="$PROJECT_DIR$/542. 01 Matrix/answer_bfs.py" />
-        <option value="$PROJECT_DIR$/199. Binary Tree Right Side View/README.md" />
         <option value="$PROJECT_DIR$/199. Binary Tree Right Side View/answer.py" />
         <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/README.md" />
         <option value="$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer.py" />
@@ -172,6 +157,12 @@
         <option value="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/README.md" />
         <option value="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer_mine.py" />
         <option value="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer.py" />
+        <option value="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/README.md" />
+        <option value="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/answer.py" />
+        <option value="$PROJECT_DIR$/559. Maximum Depth of N-ary Tree/README.md" />
+        <option value="$PROJECT_DIR$/559. Maximum Depth of N-ary Tree/answer.py" />
+        <option value="$PROJECT_DIR$/572. Subtree of Another Tree/README.md" />
+        <option value="$PROJECT_DIR$/572. Subtree of Another Tree/answer.py" />
       </list>
     </option>
   </component>
@@ -216,6 +207,11 @@
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="0. COPY ME" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="104. Maximum Depth of Binary Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
@@ -270,6 +266,16 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="559. Maximum Depth of N-ary Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="572. Subtree of Another Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="783. Minimum Distance Between BST Nodes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -299,8 +305,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree" />
       <recent name="$PROJECT_DIR$/236. Lowest Common Ancestor of a Binary Tree" />
       <recent name="$PROJECT_DIR$/230. Kth Smallest Element in a BST" />
       <recent name="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal" />
@@ -505,51 +511,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="630" column="8" selection-start-line="630" selection-start-column="8" selection-end-line="630" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/380. Insert Delete GetRandom O(1)/answer-o1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="358" column="20" selection-start-line="358" selection-start-column="20" selection-end-line="358" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/155. Min Stack/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/155. Min Stack/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/797. All Paths From Source to Target/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -933,8 +894,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="44" column="20" lean-forward="true" selection-end-line="51" />
+        <state relative-caret-position="260">
+          <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/104. Maximum Depth of Binary Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" lean-forward="true" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/559. Maximum Depth of N-ary Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/559. Maximum Depth of N-ary Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/572. Subtree of Another Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/572. Subtree of Another Tree/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>
