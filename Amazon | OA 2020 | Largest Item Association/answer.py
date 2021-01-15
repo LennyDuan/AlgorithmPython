@@ -34,7 +34,7 @@ def largest_item_association(item_association):
     for item_pair in item_association:
         item_map[item_pair[0]].add(item_pair[1])
         item_map[item_pair[1]].add(item_pair[0])
-
+    print(item_map)
     largest_group = []
     visited = set()
 
@@ -50,6 +50,7 @@ def largest_item_association(item_association):
                 for neighbor in item_map[curr]:
                     if neighbor not in visited:
                         q.append(neighbor)
+            print(curr_group)
             if len(curr_group) > len(largest_group):
                 largest_group = curr_group.copy()
 
@@ -57,5 +58,5 @@ def largest_item_association(item_association):
     return largest_group
 
 
-# print(largest_item_association([['item1', 'item2'], ['item3', 'item4'], ['item4', 'item5']]))
-print(largest_item_association([['item1', 'item2'], ['item4', 'item5'], ['item3', 'item4'], ["item1", "item4"]]))
+print(largest_item_association([['item1', 'item2'], ['item3', 'item4'], ['item4', 'item5']]))
+# print(largest_item_association([['item1', 'item2'], ['item4', 'item5'], ['item3', 'item4'], ["item1", "item4"]]))

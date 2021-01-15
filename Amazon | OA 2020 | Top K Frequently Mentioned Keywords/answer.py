@@ -12,11 +12,9 @@ def find_k_top(keywords, k, reviews):
         sum_dict += Counter(c_line_dict)
 
     # Sort key,value pairs descending order of frequency, ascending order of lexicographical
-    # sorted_dict = dict(sorted(sum_dict.items(), key=lambda kv: (-kv[1], kv[0])))
+    sorted_dict = dict(sorted(sum_dict.items(), key=lambda kv: (-kv[1], kv[0])))
 
-
-
-    print(sorted_dict)
+    print(sorted_dict.most_common(3))
     return list(sorted_dict.keys())[:k]
 
 
