@@ -4,10 +4,13 @@ def coinChange(coins: list(), amount: int) -> int:
     results[0] = 0
 
     for coin in coins:
+        print(coin)
+        print(results)
         for i in range(coin, amount + 1):
             results[i] = min(results[i], results[i - coin] + 1)
 
     numbs = results[amount] if results[amount] != max else -1
+    print(numbs)
     return numbs
 
 

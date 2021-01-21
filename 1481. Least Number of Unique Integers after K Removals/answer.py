@@ -3,7 +3,12 @@ from collections import Counter
 
 def findLeastNumOfUniqueInts(arr, k):
     counter = Counter(arr)
-    sorted_counter = sorted(arr, key=lambda x: (counter[x], x))
+    print(counter)
+    print(sorted(counter.items(), key=lambda x:x[1]))
+    print({k:v for k, v in sorted(counter.items(), key=lambda x:x[1])})
+
+    sorted_counter = sorted(arr, key=lambda x: (counter[x],x))
+
     print(sorted_counter)
 
     return len(set(sorted_counter[k:]))

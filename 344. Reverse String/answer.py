@@ -3,6 +3,7 @@ def reverseString(s) -> None:
     Do not return anything, modify s in-place instead.
     """
     s_len = len(s)
+    print(s[::-1])
     for i, char in enumerate(s):
 
         if i > s_len - 1 - i:
