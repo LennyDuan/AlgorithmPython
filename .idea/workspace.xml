@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/130. Surrounded Regions/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/130. Surrounded Regions/answer-30of59.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/130. Surrounded Regions/answer-bfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/130. Surrounded Regions/answer-dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. 3Sum/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. 3Sum/answer-TLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. 3Sum/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/324. Wiggle Sort II/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/324. Wiggle Sort II/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/148. Sort List/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/148. Sort List/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/148. Sort List/answer_TLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/75. Sort Colors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/75. Sort Colors/answer-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/75. Sort Colors/answer-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/75. Sort Colors/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,17 +35,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="191" />
-          <entry key="py" value="357" />
+          <entry key="md" value="193" />
+          <entry key="py" value="364" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="191" />
+          <entry key="Markdown" value="193" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="357" />
+          <entry key="Python" value="364" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -56,37 +54,25 @@
         <counts>
           <entry key="dummy" value="228" />
           <entry key="md" value="27" />
-          <entry key="py" value="67299" />
+          <entry key="py" value="68995" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="27" />
           <entry key="PLAIN_TEXT" value="228" />
-          <entry key="Python" value="67299" />
+          <entry key="Python" value="68995" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/130. Surrounded Regions/answer-dfs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="42" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="15" selection-end-column="42" />
-              <folding>
-                <marker date="1611463223000" expanded="true" signature="505:677" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/130. Surrounded Regions/answer-bfs.py">
+        <entry file="file://$PROJECT_DIR$/75. Sort Colors/answer-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="18" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -136,12 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/332. Reconstruct Itinerary/answer-2.py" />
-        <option value="$PROJECT_DIR$/13. Roman to Integer/answer.py" />
-        <option value="$PROJECT_DIR$/5. Longest Palindromic Substring/answer.py" />
-        <option value="$PROJECT_DIR$/Amazon | OA 2020 | Top K Frequently Mentioned Keywords/answer.py" />
-        <option value="$PROJECT_DIR$/Amazon | OA 2020 | Largest Item Association/answer.py" />
-        <option value="$PROJECT_DIR$/Amazon | OA 2019 | Optimal Utilization/answer.py" />
         <option value="$PROJECT_DIR$/Amazon | OA 2019 | Min Cost to Connect Ropes/answer.py" />
         <option value="$PROJECT_DIR$/1481. Least Number of Unique Integers after K Removals/answer.py" />
         <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py" />
@@ -187,6 +167,12 @@
         <option value="$PROJECT_DIR$/130. Surrounded Regions/answer.py" />
         <option value="$PROJECT_DIR$/130. Surrounded Regions/answer-dfs.py" />
         <option value="$PROJECT_DIR$/130. Surrounded Regions/answer-bfs.py" />
+        <option value="$PROJECT_DIR$/148. Sort List/README.md" />
+        <option value="$PROJECT_DIR$/148. Sort List/answer.py" />
+        <option value="$PROJECT_DIR$/75. Sort Colors/README.md" />
+        <option value="$PROJECT_DIR$/75. Sort Colors/answer-2.py" />
+        <option value="$PROJECT_DIR$/75. Sort Colors/answer.py" />
+        <option value="$PROJECT_DIR$/75. Sort Colors/answer-3.py" />
       </list>
     </option>
   </component>
@@ -245,6 +231,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="75. Sort Colors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="91. Decode Ways" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,6 +247,11 @@
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="131. Palindrome Partitioning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="148. Sort List" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
@@ -317,11 +313,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/130. Surrounded Regions" />
+      <recent name="$PROJECT_DIR$/75. Sort Colors" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/148. Sort List" />
+      <recent name="$PROJECT_DIR$/130. Surrounded Regions" />
       <recent name="$PROJECT_DIR$/15. 3Sum" />
-      <recent name="$PROJECT_DIR$/91. Decode Ways" />
-      <recent name="$PROJECT_DIR$/240. Search a 2D Matrix II" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -336,7 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer-bfs">
+  <component name="RunManager" selected="Python.answer-3">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,11 +341,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. 3Sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/75. Sort Colors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. 3Sum/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/75. Sort Colors/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,7 +354,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,11 +362,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/324. Wiggle Sort II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/75. Sort Colors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/324. Wiggle Sort II/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/75. Sort Colors/answer-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,7 +375,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,11 +383,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/130. Surrounded Regions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/75. Sort Colors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/130. Surrounded Regions/answer-30of59.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/75. Sort Colors/answer-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,7 +417,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer-dfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -429,11 +425,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/130. Surrounded Regions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/148. Sort List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/130. Surrounded Regions/answer-dfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/148. Sort List/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,19 +439,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer (1)" />
-      <item itemvalue="Python.answer (3)" />
-      <item itemvalue="Python.answer (4)" />
-      <item itemvalue="Python.answer-dfs" />
       <item itemvalue="Python.answer-bfs" />
+      <item itemvalue="Python.answer" />
+      <item itemvalue="Python.answer (1)" />
+      <item itemvalue="Python.answer-2" />
+      <item itemvalue="Python.answer-3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.answer-bfs" />
-        <item itemvalue="Python.answer-dfs" />
-        <item itemvalue="Python.answer (4)" />
-        <item itemvalue="Python.answer (3)" />
+        <item itemvalue="Python.answer-3" />
+        <item itemvalue="Python.answer-2" />
         <item itemvalue="Python.answer (1)" />
+        <item itemvalue="Python.answer" />
+        <item itemvalue="Python.answer-bfs" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +470,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23034154" />
       <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" weight="0.3169182" />
@@ -519,62 +514,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/75. Sort Colors/answer-3.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/61. Rotate List/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/79. Word Search/answer_90%.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/61. Rotate List/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/29. Divide Two Integers/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" selection-start-line="35" selection-end-line="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/29. Divide Two Integers/answer_tle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding>
-            <marker date="1611222573000" expanded="true" signature="65:322" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/29. Divide Two Integers/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/454. 4Sum II/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/454. 4Sum II/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -939,6 +890,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/130. Surrounded Regions/answer-bfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/130. Surrounded Regions/answer-dfs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -949,10 +907,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/130. Surrounded Regions/answer-bfs.py">
+    <entry file="file://$PROJECT_DIR$/148. Sort List/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/148. Sort List/answer_TLE.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/148. Sort List/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="18" />
+        <state relative-caret-position="435">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <marker date="1611465634000" expanded="true" signature="450:474" ph="..." />
+            <marker date="1611465634000" expanded="true" signature="474:483" ph="..." />
+            <marker date="1611465634000" expanded="true" signature="474:942" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/75. Sort Colors/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="379">
+            <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/75. Sort Colors/answer-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/75. Sort Colors/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/75. Sort Colors/answer-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
