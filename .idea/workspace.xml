@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/148. Sort List/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/148. Sort List/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/148. Sort List/answer_TLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/75. Sort Colors/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/75. Sort Colors/answer-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/75. Sort Colors/answer-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/75. Sort Colors/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer-dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer_not_consider_double_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/474. Ones and Zeroes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/474. Ones and Zeroes/answer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,33 +33,33 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
-          <entry key="md" value="193" />
-          <entry key="py" value="364" />
+          <entry key="md" value="195" />
+          <entry key="py" value="367" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="193" />
+          <entry key="Markdown" value="195" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="364" />
+          <entry key="Python" value="367" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="228" />
-          <entry key="md" value="27" />
-          <entry key="py" value="68995" />
+          <entry key="dummy" value="261" />
+          <entry key="md" value="29" />
+          <entry key="py" value="69891" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="27" />
-          <entry key="PLAIN_TEXT" value="228" />
-          <entry key="Python" value="68995" />
+          <entry key="Markdown" value="29" />
+          <entry key="PLAIN_TEXT" value="261" />
+          <entry key="Python" value="69891" />
         </counts>
       </usages-collector>
     </session>
@@ -69,10 +67,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/75. Sort Colors/answer-3.py">
+        <entry file="file://$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer-dfs.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -122,11 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Amazon | OA 2019 | Min Cost to Connect Ropes/answer.py" />
-        <option value="$PROJECT_DIR$/1481. Least Number of Unique Integers after K Removals/answer.py" />
-        <option value="$PROJECT_DIR$/987. Vertical Order Traversal of a Binary Tree/answer-mine.py" />
-        <option value="$PROJECT_DIR$/384. Shuffle an Array/answer.py" />
-        <option value="$PROJECT_DIR$/344. Reverse String/answer.py" />
         <option value="$PROJECT_DIR$/322. Coin Change/anwser.py" />
         <option value="$PROJECT_DIR$/29. Divide Two Integers/README.md" />
         <option value="$PROJECT_DIR$/29. Divide Two Integers/answer.py" />
@@ -173,6 +166,11 @@
         <option value="$PROJECT_DIR$/75. Sort Colors/answer-2.py" />
         <option value="$PROJECT_DIR$/75. Sort Colors/answer.py" />
         <option value="$PROJECT_DIR$/75. Sort Colors/answer-3.py" />
+        <option value="$PROJECT_DIR$/474. Ones and Zeroes/answer.py" />
+        <option value="$PROJECT_DIR$/474. Ones and Zeroes/README.md" />
+        <option value="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/README.md" />
+        <option value="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer.py" />
+        <option value="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer-dfs.py" />
       </list>
     </option>
   </component>
@@ -298,6 +296,16 @@
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
               <item name="454. 4Sum II" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="474. Ones and Zeroes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="1443. Minimum Time to Collect All Apples in a Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -313,11 +321,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/75. Sort Colors" />
+      <recent name="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/75. Sort Colors" />
       <recent name="$PROJECT_DIR$/148. Sort List" />
       <recent name="$PROJECT_DIR$/130. Surrounded Regions" />
-      <recent name="$PROJECT_DIR$/15. 3Sum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -332,7 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer-3">
+  <component name="RunManager" selected="Python.answer-dfs">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -346,6 +354,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/75. Sort Colors/answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="answer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer_not_consider_double_path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,7 +425,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer-bfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer-dfs" type="PythonConfigurationType" factoryName="Python">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -404,32 +433,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/130. Surrounded Regions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/130. Surrounded Regions/answer-bfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/148. Sort List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/148. Sort List/answer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer-dfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -439,19 +447,18 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer-bfs" />
-      <item itemvalue="Python.answer" />
-      <item itemvalue="Python.answer (1)" />
-      <item itemvalue="Python.answer-2" />
+      <item itemvalue="Python.answer-dfs" />
       <item itemvalue="Python.answer-3" />
+      <item itemvalue="Python.answer-2" />
+      <item itemvalue="Python.answer (1)" />
+      <item itemvalue="Python.answer (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer (2)" />
         <item itemvalue="Python.answer-3" />
         <item itemvalue="Python.answer-2" />
         <item itemvalue="Python.answer (1)" />
-        <item itemvalue="Python.answer" />
-        <item itemvalue="Python.answer-bfs" />
       </list>
     </recent_temporary>
   </component>
@@ -470,6 +477,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23034154" />
       <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" weight="0.3169182" />
@@ -526,50 +534,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/454. 4Sum II/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <marker date="1611229975000" expanded="true" signature="122:231" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/315. Count of Smaller Numbers After Self/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/315. Count of Smaller Numbers After Self/answer_smaller_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/315. Count of Smaller Numbers After Self/answer_smaller_number_total.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="15" />
-          <folding>
-            <marker date="1611251453000" expanded="true" signature="69:74" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7/bisect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/315. Count of Smaller Numbers After Self/answer_smaller_number_to_right_bisect.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -958,8 +922,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/75. Sort Colors/answer-3.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/474. Ones and Zeroes/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/474. Ones and Zeroes/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer_not_consider_double_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1611516459000" expanded="true" signature="263:530" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1443. Minimum Time to Collect All Apples in a Tree/answer-dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
