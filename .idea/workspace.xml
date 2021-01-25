@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dde4f8-b6ba-4946-b5fb-32f1f224b0d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/688. Knight Probability in Chessboard/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/688. Knight Probability in Chessboard/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0. Onsite/phase.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0. Onsite/phase1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +30,9 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key=" Letter Combinations of a Phone Number" value="1" />
+          <entry key="2" value="1" />
           <entry key="md" value="202" />
-          <entry key="py" value="389" />
+          <entry key="py" value="394" />
           <entry key="pyi" value="3" />
           <entry key="xml" value="1" />
         </counts>
@@ -39,8 +40,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="202" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="389" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="394" />
           <entry key="PythonStub" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -49,25 +50,57 @@
         <counts>
           <entry key="dummy" value="269" />
           <entry key="md" value="29" />
-          <entry key="py" value="72183" />
+          <entry key="py" value="72186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="29" />
           <entry key="PLAIN_TEXT" value="269" />
-          <entry key="Python" value="72183" />
+          <entry key="Python" value="72186" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/688. Knight Probability in Chessboard/answer.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/332. Reconstruct Itinerary/answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="255">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/332. Reconstruct Itinerary/answer-2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/146. LRU Cache/answer_queue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0. Onsite/phase1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0. Onsite/phase.2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -76,7 +109,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>replace</find>
       <find>pineapplepenapple</find>
       <find>pine apple pen apple</find>
       <find>pine apple pen</find>
@@ -106,6 +138,7 @@
       <find>y_max</find>
       <find>sorted</find>
       <find>if</find>
+      <find>Class</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/0. COPY ME</dir>
@@ -118,9 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/162. Find Peak Element/answer_heapq.py" />
-        <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/README.md" />
-        <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/answer.py" />
         <option value="$PROJECT_DIR$/378. Kth Smallest Element in a Sorted Matrix/answer_O(n).py" />
         <option value="$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/README.md" />
         <option value="$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters/answer.py" />
@@ -169,6 +199,9 @@
         <option value="$PROJECT_DIR$/1481. Least Number of Unique Integers after K Removals/answer.py" />
         <option value="$PROJECT_DIR$/688. Knight Probability in Chessboard/README.md" />
         <option value="$PROJECT_DIR$/688. Knight Probability in Chessboard/answer.py" />
+        <option value="$PROJECT_DIR$/0. Onsite/phase1.py" />
+        <option value="$PROJECT_DIR$/146. LRU Cache/answer_queue.py" />
+        <option value="$PROJECT_DIR$/0. Onsite/phase.2" />
       </list>
     </option>
   </component>
@@ -208,6 +241,11 @@
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPython" type="462c0819:PsiDirectoryNode" />
+              <item name="0. Onsite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmPython" type="b2602c69:ProjectViewProjectNode" />
@@ -383,28 +421,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer">
-    <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AlgorithmPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1004. Max Consecutive Ones III" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1004. Max Consecutive Ones III/answer-TLE.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.answer-2">
     <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AlgorithmPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -439,6 +456,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1481. Least Number of Unique Integers after K Removals/answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="answer-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AlgorithmPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/332. Reconstruct Itinerary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/332. Reconstruct Itinerary/answer-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -512,19 +550,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.answer-dfs" />
-      <item itemvalue="Python.answer (1)" />
       <item itemvalue="Python.answer (3)" />
       <item itemvalue="Python.answer (4)" />
       <item itemvalue="Python.answer-passed" />
       <item itemvalue="Python.answer" />
+      <item itemvalue="Python.answer-2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer-2" />
         <item itemvalue="Python.answer" />
         <item itemvalue="Python.answer-passed" />
         <item itemvalue="Python.answer (4)" />
         <item itemvalue="Python.answer (3)" />
-        <item itemvalue="Python.answer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -545,12 +583,12 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23034154" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8303748" visible="true" weight="0.23034154" />
       <window_info id="Structure" order="1" sideWeight="0.16962525" side_tool="true" weight="0.3169182" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4988086" visible="true" weight="0.38219178" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988086" visible="true" weight="0.38219178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35342467" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -600,33 +638,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/240. Search a 2D Matrix II/answer_dfs.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/240. Search a 2D Matrix II/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/69. Sqrt(x)/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/69. Sqrt(x)/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/91. Decode Ways/README-TLE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -971,14 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/332. Reconstruct Itinerary/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/332. Reconstruct Itinerary/answer-2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/310. Minimum Height Trees/answer-TLE.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1007,8 +1010,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/688. Knight Probability in Chessboard/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="150">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/332. Reconstruct Itinerary/answer-2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/146. LRU Cache/answer_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0. Onsite/answer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/332. Reconstruct Itinerary/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0. Onsite/phase1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0. Onsite/phase.2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
         </state>
       </provider>
     </entry>

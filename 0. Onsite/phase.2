@@ -1,0 +1,59 @@
+# Given N sorted streams, produce a merged one that preserves the sorting property.
+
+0 - 1 4 8 10
+1 - 3 4 9 19
+
+
+0 - 1 2 3
+1 - 3 4 5
+
+
+M - 1 3 4 4 8 9
+
+get_item(0) => 1
+get_item(0) => 4
+get_item(0) => 8
+get_item(0) => 10
+get_item(0) => NULL
+
+def get_item(streamIndex):
+
+
+def write_result(result):
+
+N = 2
+
+
+def sort_streams():
+    top_arrs = []
+    biggest_in_loop = 0
+    while True:
+        for i in range(N):
+            top = get_item(i)
+            if top:
+                top_arrs.append(top)
+        smallest_first_arr = sorted(top_arrs) # [1,1,1,2,3,]
+        last_in_arr = smallest_first_arr[-1]
+        biggest_in_loop = max(biggest_in_loop, last_in_arr)
+
+        if biggest_in_loop == last_in_arr:
+            while smallest_first_arr:
+                smallest = smallest_first_arr.pop(0)
+                write_result(smallest)
+# 0 - 1 2 3
+# 1 - 3 4 5
+
+# top_arrs => [1,3]
+# top_arrs => [2,4]
+
+# top_arrs => [1,3]
+# top_arrs => [1,3,2] => [1,2,3]
+# writing result for [1,2,3]
+
+
+sort_streams([
+    [1, 4, 8],
+    [3, 4, 9]
+])
+
+[1,3,4,4,8,9]
